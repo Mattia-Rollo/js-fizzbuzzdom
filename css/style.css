@@ -1,5 +1,6 @@
 .square  {
     min-width: 20px;
+    text-align: center;
     margin: 5px 5px;
     display: inline-block;
     background-color: beige;

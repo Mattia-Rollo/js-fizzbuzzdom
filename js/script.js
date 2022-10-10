@@ -20,7 +20,7 @@ for (let i = 0; i < 100; i++) {
         myDiv.append('Fizz');
 
     }else {
-        myDiv.append(`&{i}`);
+        myDiv.append(i);
     }
     wrapper.append(myDiv);
 }
